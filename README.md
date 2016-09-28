@@ -1,3 +1,3 @@
 # Todo-Flask
 
-A simple demo to create Web Framework in Flask
+A simple demo app created on Framework in Flask
